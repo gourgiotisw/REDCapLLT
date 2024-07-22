@@ -11,7 +11,7 @@ setup(
     description="A package to translate REDCap language libraries",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/REDCapLLT",
+    url="https://github.com/gourgiotisw/REDCapLLT",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
