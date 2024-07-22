@@ -78,16 +78,6 @@ The REDCap Language Library Translator is a Python script designed to translate 
 - The temporary translation file is deleted.
 
 
-## Usage
-Command Line
-After installing the package, you can use the command line tool redcap_translate to translate your JSON files:
-
-```sh
-redcap_translate
-```
-
-You will be prompted to select the JSON file and enter the language to translate the variables to.
-
 ### Error Handling
 If any errors occur during the translation process, the script logs the corresponding key-value pairs into a separate file named {language}_Error.log within the subfolder. This allows users to review and address translation issues separately.
 
